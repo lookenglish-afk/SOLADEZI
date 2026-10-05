@@ -1,0 +1,6 @@
+{
+  "name": "NMT - ENGLISH: IT College English & Interactive Learning",
+  "description": "Ứng dụng tương tác tiếng Anh CNTT bậc Cao đẳng/Đại học theo giáo trình Pearson English for IT 1: Game-based learning, Flashcards, Ghép từ, Luyện tập và Giáo án chuẩn DigComp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
